@@ -1,6 +1,6 @@
-# 📚 StudyHub Dashboard
+# 📚 StudyHub 
 
-A modern and responsive study management dashboard built with **React**.  
+A modern and responsive full stack study management dashboard built with **React js, node.js**.  
 It helps you manage tasks, notes, GPA calculations, and focused Pomodoro sessions,  
 while also giving you **daily motivation, study tips, and fun facts**.
 
@@ -19,12 +19,16 @@ while also giving you **daily motivation, study tips, and fun facts**.
 
 
 ## 🛠 Tech Stack
-- **Frontend:** React, JavaScript, CSS
-- **APIs:**
-  - [Type.fit Quotes API](https://type.fit/api/quotes) – Motivation quotes
-  - [Useless Facts API](https://uselessfacts.jsph.pl/) – Fun facts
+-## **Frontend**
+- React 18
+- CSS3 (Custom styles + animations)
+- JavaScript (ES6+)
+- Fetch API (for quotes & facts)
 
----
+### ** Backend**  
+- **Node.js** + **Express** — REST API
+- **MongoDB** — Database for tasks, notes, GPA history
+-  **Mongoose** — Database ORM/ODM
 
 ## 🚀 Getting Started
 
